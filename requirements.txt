@@ -1,7 +1,0 @@
-streamlit
-opencv-python-headless
-deepface
-requests
-numpy
-tf-keras
-h5py
